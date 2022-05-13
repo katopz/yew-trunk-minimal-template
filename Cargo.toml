@@ -12,3 +12,5 @@ categories = ["gui", "wasm", "web-programming"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 [dependencies]
 yew = "0.19"
+solana-sdk = "1.10.13"
+solana-client = "1.10.13"
